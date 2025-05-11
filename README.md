@@ -1,6 +1,6 @@
 # ImportBMP2Excel
 
-[English](README.md#english) | [简体中文](README.md#chinese)
+[中文](README_zh-CN.md)
 
 A Microsoft Excel macro to import 24-bit BMP image files and display them in Excel by coloring cells.
 
