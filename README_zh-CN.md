@@ -1,6 +1,6 @@
 #   ImportBMP2Excel
 
-[English](#english) | 简体中文
+[English](README.md#english) | [简体中文](README.md#chinese)
 
 一个 Microsoft Excel 宏，用于导入 24 位 BMP 图像文件，并通过为单元格着色在 Excel 中显示图像。
 
