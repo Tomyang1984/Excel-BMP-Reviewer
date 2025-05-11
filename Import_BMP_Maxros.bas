@@ -1,4 +1,4 @@
-Attribute VB_Name = "Module1"
+Attribute VB_Name = "Import_BMP"
 '****************************************************************
 'Read 24-bit BitMap file and fill in cells of Excel
 '
